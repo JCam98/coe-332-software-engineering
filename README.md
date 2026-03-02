@@ -5,7 +5,7 @@
 This repository contains programming solutions and assignments completed as part of
 **COE 332: Software Engineering & Design**. 
 
-The "Final_Project" folder contains the software stack for a full-stack web application with supporting microservices used to perform analysis jobs on a time-series dataset living in a Kubernetes cluster
+The "Final_Project" folder contains the software stack for a distributed cloud-based web application with supporting microservices used to perform analysis jobs on a time-series dataset living in a Kubernetes cluster
 on an HPC machine. 
 
 ## Repository Status
