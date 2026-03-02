@@ -1,8 +1,8 @@
-# Full-Stack Web Application for Performing Analysis Jobs on NOAA Time-Series Dataset
+# Distributed Cloud-Based Web Application for Performing Analysis Jobs on NOAA Time-Series Dataset
 
 ## Description
 
-The software stack provided in this directory was used to develop and deploy a full-stack web 
+The software stack provided in this directory was used to develop and deploy a distributed cloud-based web 
 application that enabled the performance of analysis jobs on a provided NOAA time-series dataset in an HPC cluster. 
 
 The stack was packaged into a Docker container and pushed to DockerHub where it is accessible
